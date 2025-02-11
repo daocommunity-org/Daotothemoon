@@ -38,9 +38,9 @@ export function Footer() {
           <div>
             <h3 className="font-semibold mb-4">Connect</h3>
             <ul className="space-y-2">
-              <li><a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground">Twitter</a></li>
-              <li><a href="https://discord.com" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground">Discord</a></li>
-              <li><a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground">GitHub</a></li>
+              <li><a href="https://x.com/daocommunity" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground">Twitter</a></li>
+              <li><a href="https://www.instagram.com/daocommunity_/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground">Instagram</a></li>
+              <li><a href="https://github.com/daocommunity-org" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground">GitHub</a></li>
             </ul>
           </div>
         </div>
